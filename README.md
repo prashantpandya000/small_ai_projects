@@ -10,3 +10,6 @@ pip3 install playsound
 pip3 install speechRecognition
 pip3 install pyaudio
 pip3 install sklearn
+pip3 install nltk
+pip3 install gensim
+pip3 install pattern
